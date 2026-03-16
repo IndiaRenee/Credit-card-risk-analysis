@@ -2,7 +2,7 @@
 Credit card transaction risk analysis using Tableau to identify abnormal spending behavior and potential fraud patterns across 550K+ transactions.
 # Credit Card Transaction Risk Analysis
 
-![Dashboard Preview](images/dashboard-preview.png)
+![Dashboard Preview](Simages/dashboard-preview.png)
 
 ## Project Overview
 This project analyzes credit card transaction activity to identify unusual spending behavior and potential fraud indicators. Using a dataset of over **550,000 transactions**, the analysis explores transaction patterns, spending behavior, and deviations from typical customer activity.
